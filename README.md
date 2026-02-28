@@ -8,4 +8,4 @@
 | ------------- | ----- | ------ | --------- |
 | Subnautica    | 5     | Beaten | ❤        |
 
-StopGame WebSite [Click](https://stopgame.ru/).
+_StopGame website [Click Here](https://stopgame.ru/)._
